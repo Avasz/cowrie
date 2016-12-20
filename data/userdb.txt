@@ -1,9 +1,7 @@
-root:x:*
-richard:x:*
-richard:x:fout
+*:x:*
 3d:x:*
-a:x:*
 a1:x:*
+a:x:*
 aa:x:*
 aaberg:x:*
 aachen:x:*
@@ -40965,6 +40963,7 @@ iowa:x:*
 ioyal:x:*
 ipa:x:*
 ipecac:x:*
+ipfs:x:*
 iphagenia:x:*
 iphigenia:x:*
 iphigeniah:x:*
@@ -42864,8 +42863,8 @@ juxtapose:x:*
 juxtaposition:x:*
 jylland:x:*
 jyoti:x:*
-k:x:*
 k2:x:*
+k:x:*
 ka:x:*
 kab:x:*
 kablesh:x:*
@@ -48760,8 +48759,8 @@ lytta:x:*
 lytton:x:*
 lyublin:x:*
 lyudmila:x:*
-m:x:*
 m16:x:*
+m:x:*
 ma:x:*
 ma:x:*
 maag:x:*
@@ -66499,6 +66498,8 @@ rich:x:*
 rich:x:*
 richard:x:*
 richard:x:*
+richard:x:*
+richard:x:fout
 richardo:x:*
 richardricharda:x:*
 richards:x:*
@@ -67298,6 +67299,8 @@ rooseveltroost:x:*
 rooster:x:*
 root:x:*
 root:x:*
+root:x:*
+root:x:stejar72
 rooted:x:*
 rootless:x:*
 rootlet:x:*
@@ -82084,9 +82087,9 @@ uzzi:x:*
 uzzia:x:*
 uzzial:x:*
 uzziel:x:*
-v:x:*
 v1:x:*
 v2:x:*
+v:x:*
 va:x:*
 vaal:x:*
 vaas:x:*
@@ -85900,6 +85903,7 @@ xanthus:x:*
 xavier:x:*
 xavierxaviera:x:*
 xavler:x:*
+xbmc:x:*
 xe:x:*
 xebec:x:*
 xena:x:*
@@ -86342,6 +86346,7 @@ yvor:x:*
 ywis:x:*
 z:x:*
 zabaglione:x:*
+zabbix:x:*
 zabrina:x:*
 zabrine:x:*
 zabrze:x:*
@@ -86772,8 +86777,3 @@ zymosis:x:*
 zymotic:x:*
 zyrian:x:*
 zysk:x:*
-ipfs:x:*
-zabbix:x:*
-xbmc:x:*
-*:x:*
-root:x:stejar72
