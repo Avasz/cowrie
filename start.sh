@@ -33,6 +33,7 @@ echo "Starting cowrie with extra arguments [$XARGS $DAEMONIZE] ..."
 if [ $AUTHBIND_ENABLED = "no" ]
 then
     twistd $XARGS $DAEMONIZE -l log/cowrie.log --umask 0077 --pidfile ${PIDFILE} cowrie
+    tail -f log/cowrie.log
 else
     authbind --deep twistd $DAEMONIZE $XARGS -l log/cowrie.log --umask 0077 --pidfile ${PIDFILE} cowrie
 fi
